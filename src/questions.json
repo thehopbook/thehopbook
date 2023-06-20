@@ -1,0 +1,144 @@
+[
+  {
+    "question": "Beer Style: Which of the following beer styles do you usually prefer?",
+    "options": [
+      {
+        "label": "Lager",
+        "value": "lager"
+      },
+      {
+        "label": "Ale",
+        "value": "ale"
+      },
+      {
+        "label": "Stout",
+        "value": "stout"
+      },
+      {
+        "label": "IPA",
+        "value": "ipa"
+      },
+      {
+        "label": "Porter",
+        "value": "porter"
+      },
+      {
+        "label": "Pilsner",
+        "value": "pilsner"
+      },
+      {
+        "label": "I'm not sure",
+        "value": "not_sure"
+      }
+    ]
+  },
+  {
+    "question": "Flavor Profile: What flavor profile do you enjoy the most in a beer?",
+    "options": [
+      {
+        "label": "Sweet",
+        "value": "sweet"
+      },
+      {
+        "label": "Bitter",
+        "value": "bitter"
+      },
+      {
+        "label": "Malty",
+        "value": "malty"
+      },
+      {
+        "label": "Fruity",
+        "value": "fruity"
+      },
+      {
+        "label": "Spicy",
+        "value": "spicy"
+      },
+      {
+        "label": "I like a balance of flavors",
+        "value": "balanced"
+      }
+    ]
+  },
+  {
+    "question": "Alcohol Content: Do you prefer your beer to be...",
+    "options": [
+      {
+        "label": "Light (lower alcohol content)",
+        "value": "light"
+      },
+      {
+        "label": "Strong (higher alcohol content)",
+        "value": "strong"
+      },
+      {
+        "label": "It doesn't matter",
+        "value": "doesnt_matter"
+      }
+    ]
+  },
+  {
+    "question": "Color: What color do you prefer your beer to be?",
+    "options": [
+      {
+        "label": "Light (pale yellow)",
+        "value": "light"
+      },
+      {
+        "label": "Medium (amber)",
+        "value": "medium"
+      },
+      {
+        "label": "Dark (brown to black)",
+        "value": "dark"
+      }
+    ]
+  },
+  {
+    "question": "Aroma: What kind of aroma do you prefer in your beer?",
+    "options": [
+      {
+        "label": "Fruity",
+        "value": "fruity"
+      },
+      {
+        "label": "Floral",
+        "value": "floral"
+      },
+      {
+        "label": "Earthy",
+        "value": "earthy"
+      },
+      {
+        "label": "Spicy",
+        "value": "spicy"
+      },
+      {
+        "label": "I don't mind",
+        "value": "no_preference"
+      }
+    ]
+  },
+  {
+    "question": "Mouthfeel: How do you like the feel of the beer in your mouth?",
+    "options": [
+      {
+        "label": "Highly carbonated",
+        "value": "carbonated"
+      },
+      {
+        "label": "Creamy",
+        "value": "creamy"
+      },
+      {
+        "label": "Dry",
+        "value": "dry"
+      },
+      {
+        "label": "Warm from alcohol",
+        "value": "warm"
+      }
+    ]
+  }
+]
